@@ -8,4 +8,4 @@ This project is part of the Day 7 hands-on assignment.
 
 ## About
 
-About: version A
+About: version B
