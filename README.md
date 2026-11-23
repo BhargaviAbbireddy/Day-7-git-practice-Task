@@ -9,3 +9,5 @@ This project is part of the Day 7 hands-on assignment.
 ## About
 
 About: version B
+
+GitHub Actions workflow is configured successfully.
