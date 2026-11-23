@@ -5,3 +5,7 @@ This repository is created for practicing Git branches, commits, pull requests, 
 ## About
 
 This project is part of the Day 7 hands-on assignment.
+
+## About
+
+This repository is used to practice Git branches, commits, pull requests, and merge conflict resolution.
